@@ -10,4 +10,4 @@ function draw(){
   if (mouseIsPressed){
     rect(mouseX,mouseY,20,35);
   }
-}
+} 
